@@ -1,0 +1,1 @@
+Algoritmos realizados para a 2ª Prova de Estruturas de Dados 1.
